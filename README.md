@@ -5,7 +5,3 @@
 <a href="https://github.com/Enoughsdv">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Enoughsdv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3BCFCE&bg_color=343a40"/>
 </a>
-
-<a href="https://github.com/Enoughsdv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enoughsdv&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=343a40"/>
-</a>
