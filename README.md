@@ -4,7 +4,7 @@
 
 - Discord: Enough#7502
 - [Twitter](https://twitter.com/Enoughsdv)
-- [Eazv Discord](https://discord.link/EazvDev)
+- [Eazv Discord](http://discord.eazv.club)
 - [ZenkiMex Discord](https://discord.gg/NBDD97H)
 
 <details>
