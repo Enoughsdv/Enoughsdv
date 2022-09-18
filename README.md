@@ -10,6 +10,11 @@
 - [ZenkiMex Discord](https://discord.gg/NBDD97H)
 
 <details>
-  <summary>:heart: Photo credits</summary>
+  <summary>...</summary>
+    In love there is always some madness, and in madness there is always some reason.
+</details>
+
+<details>
+  <summary>Photo credits</summary>
     https://www.pixiv.net/en/users/11365815
 </details>
