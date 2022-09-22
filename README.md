@@ -11,8 +11,7 @@
 - [GoldenLand Site](https://goldenland.ml)
 - [ZenkiMex Site](https://zenkimex.com.mx/)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoughsdv&theme=aura"/>
-<img src="https://github-readme-stats.vercel.app/api?username=enoughsdv&show_icons=true&theme=aura"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=enoughsdv&show_icons=true&theme=aura)
 
 <details>
   <summary>...</summary>
