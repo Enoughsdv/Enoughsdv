@@ -1,13 +1,15 @@
+```bash
+>_ echo "Welcome to my github profile"
+```
 
-# Profile
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00F764&center=true&multiline=true&width=435&height=51&lines=A+programmer+who+likes;to+learn+from+everything)](https://git.io/typing-svg)
 <img align='right' src="https://discord.c99.nl/widget/theme-4/754184329478799502.png"/>
 
 - Discord: Enough#7502
+- [Twitter](https://twitter.com/Enoughsdv)
 - [Web Site](https://enoughsdv.ml)
 - [GoldenLand Site](https://goldenland.ml)
-- [Twitter](https://twitter.com/Enoughsdv)
-- [Eazv Discord](http://discord.eazv.club)
-- [ZenkiMex Discord](https://discord.gg/NBDD97H)
+- [ZenkiMex Site](https://zenkimex.com.mx/)
 
 <details>
   <summary>...</summary>
