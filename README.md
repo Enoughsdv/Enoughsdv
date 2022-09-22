@@ -11,6 +11,9 @@
 - [GoldenLand Site](https://goldenland.ml)
 - [ZenkiMex Site](https://zenkimex.com.mx/)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoughsdv&theme=aura"/>
+<img src="https://github-readme-stats.vercel.app/api?username=enoughsdv&show_icons=true&theme=aura"/>
+
 <details>
   <summary>...</summary>
     In love there is always some madness, and in madness there is always some reason.
