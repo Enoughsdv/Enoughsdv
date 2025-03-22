@@ -7,7 +7,7 @@
 
 - Discord: Enough#7502
 - [Twitter](https://twitter.com/Enoughsdv)
-- [Web Site]([https://enoughsdv.ml](https://enough.is-a.dev/))
+- [Web Site](https://enoughsdv.ml)
 - [iAppsBeats](https://iappsbeats.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enoughsdv&show_icons=true&theme=aura)
