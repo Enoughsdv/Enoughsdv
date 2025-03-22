@@ -7,9 +7,8 @@
 
 - Discord: Enough#7502
 - [Twitter](https://twitter.com/Enoughsdv)
-- [Web Site](https://enoughsdv.ml)
-- [GoldenLand Site](https://goldenland.ml)
-- [ZenkiMex Site](https://zenkimex.com.mx/)
+- [Web Site]([https://enoughsdv.ml](https://enough.is-a.dev/))
+- [iAppsBeats](https://iappsbeats.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enoughsdv&show_icons=true&theme=aura)
 
